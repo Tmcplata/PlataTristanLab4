@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlataTristanLab4</string>
+    <string name="title">BINONDO</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="location">Bounded by the river Claro M. \n Recto Avenue and Avenida Rizal, Manila, Luzon Philippines</string>
+    <string name="distance">2.1 km from University of Santo Tomas</string>
+</resources>
